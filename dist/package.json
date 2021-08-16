@@ -1,0 +1,10 @@
+{
+    "name": "iforecast",
+    "version": "1.0.0",
+    "description": "iForecast",
+    "author": "vizalerd",
+    "private": true,
+    "scripts": {
+      "postinstall": "npm install express"
+    }
+  }
